@@ -1,5 +1,5 @@
-# StimuStep
-This repository contains the code for StimuStep, a fourth year Mechatronics capstone design project at the University of Waterloo. StimuStep is a device that helps people with foot drop (inability to lift the foot) walk by using electrical stimulation.
+# SimuStep
+This repository contains the code for SimuStep, a fourth year Mechatronics capstone design project at the University of Waterloo. SimuStep is a device that helps people with foot drop (inability to lift the foot) walk by using electrical stimulation.
 
 ## Setup
 You only need to follow these steps once.
@@ -13,6 +13,6 @@ You only need to follow these steps once.
 7. Clone this repo to your PC with `git clone git@github.com:AndrewDrury/SimuStep.git`
 
 ## Run Code
-1. Open `StimuStep/main.py` in the Mu python editor.
+1. Open `SimuStep/main.py` in the Mu python editor.
 2. Click `Load` to load the code onto the microcontroller.
 3. Click `Run` to run the code on the microcontroller.
